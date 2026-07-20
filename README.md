@@ -60,7 +60,7 @@ The deep-learning version can identify relationships between movies even when th
 
 ### Source Code
 
-👉 [View the GitHub repository](https://github.com/saikrishnareddy1731/movie-recommender-system)
+👉 [View the GitHub repository](https://github.com/saikrishnareddy1731/deep-learning-movie-recommender)
 
 ### Portfolio
 
@@ -309,7 +309,7 @@ deep-learning-movie-recommender/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/saikrishnareddy1731/movie-recommender-system.git
+git clone https://github.com/saikrishnareddy1731/deep-learning-movie-recommender.git
 cd movie-recommender-system
 ```
 
